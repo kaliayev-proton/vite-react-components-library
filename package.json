@@ -34,6 +34,7 @@
     "@vitejs/plugin-react": "^1.0.7",
     "autoprefixer": "^10.4.2",
     "babel-loader": "^8.2.3",
+    "chromatic": "^6.4.2",
     "jest": "^27.4.7",
     "postcss": "^8.4.5",
     "postcss-cli": "^9.1.0",
